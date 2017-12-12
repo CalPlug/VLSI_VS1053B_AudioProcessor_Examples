@@ -1,4 +1,4 @@
-# VS1053B_AudioProcessor_JunkDrawer
+# VLSI VS1053b DSP Audio Processor Example Projects and Resources
 
 Compiled resources for building plugin and image (IMG) files for the VLSI VS 1053B DSP Audio Processor.  This includes manufacturer documents and student reports developing for this tricky little device.  MFGr Info: http://www.vlsi.fi/en/products/vs1053.html
 
